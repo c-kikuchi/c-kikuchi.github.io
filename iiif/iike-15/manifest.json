@@ -38,7 +38,356 @@
         {
           "type": "AnnotationPage",
           "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/0/annos",
-          "items": []
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/0/annos/0",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/0#xywh=756.0666666666667,681.8166666666665,68.58333333333333,248.8444444444446",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 徳川　慶頼"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: とくがわ　よしより"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 田安黄門"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 田安家家主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/0/annos/1",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/0#xywh=644.2555555555555,865.7555555555556,82.90000000000006,407.6944444444444",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 徳川　慶頼"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: とくがわ　よしより"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 中納言様"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 田安家家主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/0/annos/2",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/0#xywh=759.6222222222221,973.9555555555556,72.26666666666672,129.94444444444437",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 松平　慶永"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: まつだいら　よしなが"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 越前"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 福井藩主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: 慶頼実兄"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/0/annos/3",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/0#xywh=629.8,1843.4055555555553,104.58333333333327,281.4333333333334",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 松平　慶永"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: まつだいら　よしなが"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 越前守"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 福井藩主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: 慶頼実兄"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/0/annos/4",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/0#xywh=517.9911111111111,2554.2111111111108,97.35888888888893,133.4894444444445",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 徳川　慶頼"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: とくがわ　よしより"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 閣下"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 田安家家主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/0/annos/5",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/0#xywh=416.9527777777778,822.5333333333332,64.90444444444445,129.8055555555556",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 松平　慶永"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: まつだいら　よしなが"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 小子"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 福井藩主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: 慶頼実兄"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -72,7 +421,142 @@
         {
           "type": "AnnotationPage",
           "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/1/annos",
-          "items": []
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/1/annos/0",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/1#xywh=1777.0833333333333,2086.177777777778,68.59444444444433,310.31666666666666",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 2"
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/1/annos/1",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/1#xywh=950.2499999999999,991.6333333333334,95.21111111111114,96.22222222222219",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 松平　慶永"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: まつだいら　よしなが"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 愚"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 福井藩主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 2"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/1/annos/2",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/1#xywh=1398.2944444444445,2659.9527777777776,111.80555555555539,137.03444444444446",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 松平　慶永"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: まつだいら　よしなが"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 小子"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 福井藩主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 2"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -106,7 +590,530 @@
         {
           "type": "AnnotationPage",
           "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2/annos",
-          "items": []
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2/annos/0",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2#xywh=900.3277777777778,579.2777777777776,79.49444444444443,147.93888888888898",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 松平　慶永"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: まつだいら　よしなが"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 小子"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 福井藩主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 3"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2/annos/1",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2#xywh=1012.1777777777778,1351.7166666666667,79.35555555555551,254.8444444444442",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 海防掛"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: かいぼうかかり"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 海防懸り"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 3"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2/annos/2",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2#xywh=432.85277777777776,1684.6277777777777,79.35888888888887,173.1666666666666",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 徳川　慶喜"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: とくがわ　よしのぶ"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 此御方"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 前一橋家主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 3"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2/annos/3",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2#xywh=528.7633333333333,1531.7,79.35888888888887,173.16666666666643",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 徳川　慶喜"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: とくがわ　よしのぶ"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 一橋公"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 前一橋家主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 3"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2/annos/4",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2#xywh=305.1427777777778,1055.5555555555554,75.67666666666666,122.58333333333331",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 松平　慶永"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: まつだいら　よしなが"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 小拙"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 福井藩主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 3"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2/annos/5",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2#xywh=315.91499999999996,1456.0277777777776,57.81333333333336,187.61666666666673",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 伊達　宗城"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: だて　むねなり"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 遠江守"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 宇和島藩主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 3"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2/annos/6",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2#xywh=297.9161111111111,1239.4944444444443,90.12944444444449,162.40000000000015",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 島津　斉彬"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: しまづ　なりあきら"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 薩摩守"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 鹿児島藩主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 3"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2/annos/7",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2#xywh=312.36944444444447,1701.322222222222,64.90444444444445,176.71666666666664",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 蜂須賀　斉裕"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: はちすか　なりひろ"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 阿波守"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 徳島藩主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 3"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2/annos/8",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/2#xywh=193.33277777777778,1156.5944444444444,68.44944444444445,158.71666666666644",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 徳川　慶喜"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: とくがわ　よしのぶ"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 橋公"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 前一橋家主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 3"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -140,7 +1147,754 @@
         {
           "type": "AnnotationPage",
           "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos",
-          "items": []
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/0",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=1643.5944444444442,1522.0777777777776,75.67222222222243,122.5777777777779",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 徳川　慶喜"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: とくがわ　よしのぶ"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 橋公"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 前一橋家主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 4"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/1",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=1647.138888888889,2838.8355555555554,79.35555555555551,137.03444444444446",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 徳川　慶頼"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: とくがわ　よしより"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 閣下"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 田安家家主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 4"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/2",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=1192.2055555555555,595.2000000000002,77.03333333333325,182.87222222222206",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 徳川　慶頼"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: とくがわ　よしより"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 安府君"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 田安家家主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 4"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/3",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=851.5388888888888,1054.138888888889,77.0333333333334,209.34444444444452",
+              "body": []
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/4",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=853.4222222222222,2849.6072222222224,79.49444444444443,115.49111111111112",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 松平　慶永"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: まつだいら　よしなが"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 小子"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: 福井藩主"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 4"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/5",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=608.1222222222223,598.4222222222222,72.1333333333333,129.9333333333332",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 徳川　綱吉"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: とくがわ　つなよし"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 憲廟"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: ５代将軍"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 4"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/6",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=604.5777777777778,789.7277777777778,93.81111111111109,122.57777777777757",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 徳川　家宣"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: とくがわ　いえのぶ"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 照廟"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: ６代将軍"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 4"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/7",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=355.5938888888889,583.9666666666665,90.26611111111112,151.6277777777778",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 徳川　吉宗"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: とくがわ　よしむね"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 徳廟"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: ８代将軍"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 4"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/8",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=254.55555555555554,605.6388888888888,81.96444444444444,122.8333333333334",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 徳川　家斉"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: とくがわ　いえなり"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 恭廟"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: １１代将軍"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 4"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/9",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=500.135,1179.75,92.19277777777779,191.4944444444444",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 御三家"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: ごさんけ"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 三親藩"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 4"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/10",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=360.6405555555556,886.6833333333334,80.39999999999996,411.261111111111",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 甲府徳川家"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: こうふ"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 甲・館之二尊藩"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 4"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/11",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=244.86444444444444,1640.5888888888887,89.77999999999997,186.80000000000013",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 御三家"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: ごさんけ"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 三親藩"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 4"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/12",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=263.7583333333333,818.0777777777779,75.57611111111109,158.38888888888883",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 一橋徳川家"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: ひとつばしとくがわけ"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 橋府"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "肩書き: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "メモ: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 4"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "備考: "
+                }
+              ]
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3/annos/13",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/3#xywh=371.3333435058594,898.5777587890625,76.66665649414062,413.3333740234375",
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "見出し語: 館林徳川家"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "読み: たてばやし"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "原文表記: 甲・館之二尊藩"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "巻: 15"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "頁: 4"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "番号: 1"
+                },
+                {
+                  "type": "TextualBody",
+                  "motivation": "commenting",
+                  "value": "枝番: "
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -174,7 +1928,92 @@
         {
           "type": "AnnotationPage",
           "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4/annos",
-          "items": []
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4/annos/0",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4#xywh=1568.1277777777775,557.4555555555554,90.26666666666692,151.6277777777778",
+              "body": []
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4/annos/1",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4#xywh=1688.95,559.8277777777778,90.26666666666661,151.6277777777778",
+              "body": []
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4/annos/2",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4#xywh=406.3761111111111,569.5555555555554,99.94777777777777,418.80000000000007",
+              "body": []
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4/annos/3",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4#xywh=1459.488888888889,1436.7277777777776,90.26666666666661,151.6277777777778",
+              "body": []
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4/annos/4",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4#xywh=1447.4833333333333,919.8111111111109,90.26666666666661,151.6277777777778",
+              "body": []
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4/annos/5",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4#xywh=1574.1944444444446,1268.872222222222,68.27777777777757,129.9333333333335",
+              "body": []
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4/annos/6",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4#xywh=1807.361111111111,2074.383333333333,90.26666666666661,151.62777777777765",
+              "body": []
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4/annos/7",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4#xywh=1575.4277777777777,2354.616666666667,90.26666666666661,151.6277777777778",
+              "body": []
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4/annos/8",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4#xywh=1804.8444444444444,968.0999999999999,90.26666666666661,151.6277777777778",
+              "body": []
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4/annos/9",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4#xywh=1799.961111111111,569.4999999999999,90.26111111111119,151.6277777777778",
+              "body": []
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4/annos/10",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4#xywh=548.3544444444444,2581.6555555555556,61.60111111111111,91.75611111111115",
+              "body": []
+            },
+            {
+              "type": "Annotation",
+              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4/annos/11",
+              "motivation": "commenting",
+              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/4#xywh=78.06277777777777,2517.3,76.15666666666667,73.9333333333333",
+              "body": []
+            }
+          ]
         }
       ]
     },
@@ -242,51 +2081,7 @@
         {
           "type": "AnnotationPage",
           "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/6/annos",
-          "items": [
-            {
-              "type": "Annotation",
-              "id": "https://c-kikuchi.github.io/iiif/iike-15/canvas/6/annos/0",
-              "motivation": "commenting",
-              "target": "https://c-kikuchi.github.io/iiif/iike-15/canvas/6#xywh=1076,1392,168,736",
-              "body": [
-                {
-                  "type": "TextualBody",
-                  "motivation": "commenting",
-                  "value": "巻: 15"
-                },
-                {
-                  "type": "TextualBody",
-                  "motivation": "commenting",
-                  "value": "頁: 7"
-                },
-                {
-                  "type": "TextualBody",
-                  "motivation": "commenting",
-                  "value": "読み: ながの　よしとき"
-                },
-                {
-                  "type": "TextualBody",
-                  "motivation": "commenting",
-                  "value": "メモ: "
-                },
-                {
-                  "type": "TextualBody",
-                  "motivation": "commenting",
-                  "value": "見出し語: 長野　義言"
-                },
-                {
-                  "type": "TextualBody",
-                  "motivation": "commenting",
-                  "value": "原文表記: あああ"
-                },
-                {
-                  "type": "TextualBody",
-                  "motivation": "commenting",
-                  "value": "肩書き: あああ"
-                }
-              ]
-            }
-          ]
+          "items": []
         }
       ]
     },
