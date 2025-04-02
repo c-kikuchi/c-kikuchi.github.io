@@ -32,7 +32,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000001.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000001.tif"
               }
             }
           ]
@@ -70,7 +70,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000002.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000002.tif"
               }
             }
           ]
@@ -161,7 +161,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000003.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000003.tif"
               }
             }
           ]
@@ -226,7 +226,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000004.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000004.tif"
               }
             }
           ]
@@ -525,7 +525,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000005.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000005.tif"
               }
             }
           ]
@@ -785,7 +785,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000006.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000006.tif"
               }
             }
           ]
@@ -1162,7 +1162,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000007.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000007.tif"
               }
             }
           ]
@@ -1539,7 +1539,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000008.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000008.tif"
               }
             }
           ]
@@ -1903,7 +1903,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000009.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000009.tif"
               }
             }
           ]
@@ -2241,7 +2241,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000010.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000010.tif"
               }
             }
           ]
@@ -2566,7 +2566,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000011.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000011.tif"
               }
             }
           ]
@@ -2917,7 +2917,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000012.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000012.tif"
               }
             }
           ]
@@ -3294,7 +3294,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000013.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000013.tif"
               }
             }
           ]
@@ -3671,7 +3671,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000014.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000014.tif"
               }
             }
           ]
@@ -4035,7 +4035,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000015.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000015.tif"
               }
             }
           ]
@@ -4438,7 +4438,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000016.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000016.tif"
               }
             }
           ]
@@ -4815,7 +4815,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000017.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000017.tif"
               }
             }
           ]
@@ -5088,7 +5088,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000018.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000018.tif"
               }
             }
           ]
@@ -5504,7 +5504,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000019.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000019.tif"
               }
             }
           ]
@@ -5673,7 +5673,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000020.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000020.tif"
               }
             }
           ]
@@ -5711,7 +5711,7 @@
                 "type": "Image",
                 "width": 5760,
                 "height": 3840,
-                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/info/idata/400/4344/1/14/00000021.tif"
+                "id": "https://clioimg.hi.u-tokyo.ac.jp/viewer/api/image/idata/400/4344/1/14/00000021.tif"
               }
             }
           ]
